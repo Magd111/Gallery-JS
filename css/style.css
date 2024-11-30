@@ -1,0 +1,34 @@
+/* .item{
+  opacity: 0.3;
+  width: 116px;
+}
+.active{
+  opacity: 1;
+} */
+.item-caption{
+  width: 80%;
+  height: 35%;
+  left: 10%;
+  bottom: 30px;
+  background-color: #fff;
+  text-align: center;
+}
+.item-caption p{
+  font-size: small;
+}
+
+.lightbox-container{
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.lightbox-item{
+  background-image: url(../images/black-and-white-moon-ocean-during-night-time-ov-1920x1080.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 50%;
+  height: 70vh;
+}
+i{
+  font-size: 35px;
+  color: #fff;
+  margin: 10px;
+}
